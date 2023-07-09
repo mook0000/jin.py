@@ -8,4 +8,4 @@ print(lista.sort())
 
 print(sorted(lista))
 print("수정된 부분")
-
+print("2차 수정")
